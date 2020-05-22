@@ -1,4 +1,4 @@
-https://docs.microsoft.com/en-us/azure/devops/pipelines/media/azure-pipelines-succeeded.png?view=azure-devops
+[![Build Status](https://dev.azure.com/wendysophie/MyTest/_apis/build/status/wendysophie.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/wendysophie/MyTest/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
